@@ -1,0 +1,27 @@
+html, body {
+  background: #0B132B;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+  color: #50AAA9;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #709CD1;
+}
+
+
+#container {
+	width: 90%;
+	max-width: 800px;
+	background: #1C2541;
+	margin: 30px auto;
+  padding: 30px;
+}
+
+section {
+	border-top: 1px solid #5BC0BE;
+	padding: 20px 0 0;
+}
