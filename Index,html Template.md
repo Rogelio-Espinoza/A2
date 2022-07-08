@@ -21,7 +21,7 @@
 						<h1><a href="index.html">Future Imperfect</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="#">flskdfjlkds;fjl;ksdjf;ldsjfl;</a></li>
+								<li><a href="#">Goldfish like to eat flake</a></li>
 								<li><a href="#">sfsdfsdfdsfsdf</a></li>
 								<li><a href="#">sfsjdkfnsdkjfnkdsjfn</a></li>
 								<li><a href="#">fsdhjkfhsdkjflhdslkaf</a></li>
