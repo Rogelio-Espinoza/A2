@@ -1,9 +1,10 @@
 body {
-  background-color:Blue;
+  background-color:;
   padding-top: 100px;
   padding-right: 200px;
   padding-bottom: 200px;
   padding-left: 100px;
   font-size: 18px;
-
+  max-width: 500px;
+  height: 100px;
 }
