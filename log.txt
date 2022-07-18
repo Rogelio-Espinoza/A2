@@ -1,0 +1,1601 @@
+commit 8b7f1ed1d4bdb3de70757eb6e099c10908c26098
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:53:37 2022 +1000
+
+    added link to new PDF documents
+
+commit 36f87d98225ec04acab59ade8ed3ee46c8d24b29
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:51:48 2022 +1000
+
+    moved to documents folder
+
+commit eac11a5882eb5103c10984ca8125e2bf3f2d455e
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:49:44 2022 +0800
+
+    Add files via upload
+    
+    PDF new
+
+commit 467d7678bfab0c1631bebc119818c359752ceccc
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:46:22 2022 +1000
+
+    deleted log of commits
+
+commit e1781a78994de2e9bcc0eabb10e54de19e820392
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:41:43 2022 +1000
+
+    removed custom css attempt
+
+commit 08f0c336244ae12207a7b59779f863c23fb91d1d
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:41:06 2022 +1000
+
+    deleted all pdf and .htm files for replacement
+
+commit 97855bae1a61dcd13b27aee50f81da9d1fa4f07b
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:38:09 2022 +0800
+
+    Update IT_Technologies.html
+
+commit 5c0e47e00c12ed175e939f4a4635df9a8a19c016
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:36:41 2022 +0800
+
+    Rename Raspberry_Pis.htm to raspberry_Pie.htm
+
+commit 198acf87e5b93dc1f12072fff678f3d712d04538
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:31:52 2022 +0800
+
+    Update IT_Technologies.html
+
+commit 965287e22e99e6219b2a1cd6a5bae2d7cc7fe0ff
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:30:24 2022 +0800
+
+    Update IT_Technologies.html
+
+commit 759ad81a88718834ab83e2f1748f9e16d62d3833
+Merge: 85cafe0 348617f
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:30:02 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 85cafe0b54c739a55baee23b6e616ea0986d5f59
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:29:59 2022 +1000
+
+    moved styles.css
+
+commit 348617ff24d6e280c7e6648d9b7e421ff6bb0cec
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:26:20 2022 +0800
+
+    Update IT_Technologies.html
+    
+    link fixes
+
+commit 8d8b4a3125c5053086ef5ea2556778a78becfec1
+Merge: 1a4117e fd1207a
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:25:10 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 1a4117ee17bfe1d94c03e0d3df84a07d14be94c8
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:25:07 2022 +1000
+
+    fixed button
+
+commit fd1207a1468f97600dc63cc98129f2ced6365b8b
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:23:38 2022 +0800
+
+    Rename Raspberry Pis.htm to Raspberry_Pis.htm
+
+commit 365abf90fc90cf5090bcb14583264cdc3d1394f8
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:22:22 2022 +0800
+
+    Rename cyber security.htm to cyber_security.htm
+
+commit 3de80e103156b990d5f8442f19fdd9f9c537d2de
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:22:00 2022 +0800
+
+    Rename Project Idea.htm to Project_Idea.htm
+
+commit 58ae1e6e9fe1a9c26162b51ccb1646a11256a9e8
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:21:23 2022 +0800
+
+    Rename project idea.html to project_idea.html
+
+commit 2061add65b530e8c4534773facacb977b49df032
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:21:05 2022 +0800
+
+    Rename Machine Learning.htm to Machine_Learning.htm
+
+commit c8743491a325a6675c698ab8ab41e7280c6157c2
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:20:16 2022 +0800
+
+    Rename Report on cyber security.htm to cyber security.htm
+    
+    name change
+
+commit 9530e13437ade8f6da29814e75567edcdea0043e
+Merge: 9abef60 fab08ff
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:19:54 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 9abef603547205a96103d9e5969ce7736a65ae0d
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 22:19:50 2022 +1000
+
+    removed artifact
+
+commit fab08ffcbdbff39b85253940c81926ba412a0f86
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:19:46 2022 +0800
+
+    Rename Information Technologies Robotics.htm to Robotics.htm
+    
+    name change
+
+commit 6e1876d85e2995fa6bb37427003cb06d7c0a1e8c
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:18:59 2022 +0800
+
+    Rename Raspberry Pis^J Arduinos^J Makey Makeys .htm to Raspberry Pis.htm
+    
+    name change
+
+commit 3eb438fdc918ee94c010d204963a02dd66293ef8
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:17:21 2022 +0800
+
+    Delete Report on cyber security_files directory
+
+commit 2bc6a0caf1aa44d86374720cc9887356fe0a3ab1
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:17:11 2022 +0800
+
+    Delete Raspberry Pis^J Arduinos^J Makey Makeys _files directory
+
+commit 3aa871fb6ad5bc337112778360ca9a4cd437bb50
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:17:00 2022 +0800
+
+    Delete Project Idea_files directory
+
+commit 5789fd267c202d5c2cd98be782a5fe4192c3bf12
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:16:41 2022 +0800
+
+    Delete Machine Learning_files directory
+
+commit ed9a595a766f4d178f67f6dfd277a284c5930273
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 20:16:31 2022 +0800
+
+    Delete Information Technologies Robotics_files directory
+
+commit 4643bb4b1465668a989ec98130393db4bfe68b65
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 19:58:55 2022 +0800
+
+    Add files via upload
+
+commit 3a29d807dbc675f9f9a9ec0aeb3b56bdebd06dc5
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 19:57:10 2022 +0800
+
+    Add files via upload
+
+commit f70c6d8a8415ceeba7b64c822b5fa4ffc53f1cd1
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:52:38 2022 +1000
+
+    Update project idea.html
+    
+    removed project idea header
+
+commit 9c6e4b1e9cf0878431954952fe40edfa6d735d99
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:52:28 2022 +1000
+
+    removed initial versions of files
+
+commit 56c3a09bd7bdea64cdd90915509a4e003bcff643
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:48:01 2022 +1000
+
+    replaced javascript references
+
+commit 8b07ce900dbbe8106e772163b30f0253ee31d0c4
+Merge: 2232fab ecd9875
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:46:16 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 2232fabcb508959d57dff0bfff94d2b504492e3e
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:46:14 2022 +1000
+
+    remove artifact
+
+commit ecd98752dc381960a838b66bbe8b0e32ad431683
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:44:01 2022 +1000
+
+    Update index.html
+
+commit 31b21610b4624f101c65dc7835aa6cb276185363
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:43:02 2022 +1000
+
+    Add files via upload
+
+commit bf634d21b06068cca4b669b81baa381a1568ea55
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:42:16 2022 +1000
+
+    Header menu
+
+commit c258a7daa9c17222712fe972ae992a0e8b686e56
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:30:46 2022 +1000
+
+    dropdown hyperlinks
+
+commit dcc1cafc8a9a437b43a499739256facca4bc4e14
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:27:39 2022 +1000
+
+    Dropdown menu hyperlinks edited
+
+commit 5bce557582534878cb89fb730ff0b0537cdbf1ef
+Merge: 4e7e963 85849a1
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:24:56 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 4e7e963737998854ba522ad29ab205b2655b8e9d
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:24:39 2022 +1000
+
+    committ
+
+commit 85849a10a5db8650edc9a1a7bbc5b56da4ccb8f7
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:22:59 2022 +1000
+
+    Update industry_data.html
+
+commit 6e21fe002da809cadf4a5f31c7391e2fb00edaab
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:20:45 2022 +1000
+
+    Update industry_data.html
+
+commit 625529a8479b7fe4e1e727e3b1167d67c3bf7e15
+Merge: 348d5ac 6303574
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:20:30 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 348d5acef511b6359c87e1f2a3f90c74561fe465
+Merge: 0f4756c 8a2902d
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:20:16 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 0f4756c6f17219e856382f9d5b283b05b6d79e41
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:20:13 2022 +1000
+
+    dropdown menu hyperlinks
+
+commit 6303574c1c717b6938bb854e889520828dafe458
+Merge: 1b97cf0 8a2902d
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:20:04 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 1b97cf08b38e9d6c1a862b710018fa705b3c717e
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:19:48 2022 +1000
+
+    css
+
+commit 8a2902d17c9c801e166adbaad1ed76dd095829d4
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 19:16:14 2022 +0800
+
+    Rename rasberry_pi_tech.htm to raspberry_pi_tech.htm
+
+commit d4f5b93559590996be6ec4070cd71c03fc9bc725
+Merge: 6700a09 4831db1
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:12:50 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 6700a09a872bc91bc5adbad72d8defced932379e
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:12:04 2022 +1000
+
+    ccss
+
+commit 4831db187e0266f63781b23b12e3425b8704b2a7
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:11:51 2022 +1000
+
+    Update industry_data.html
+
+commit 2418da2311e91e5fa138d8f277373dec6c0c7a1d
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:11:26 2022 +1000
+
+    csss
+
+commit 8167a525e49d1a03f42f4879f5e0a33a83e9ac50
+Merge: e4d0a99 b9d76f8
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:09:56 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit e4d0a999a2e583b4f5183e075eaaadb68c2e778f
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:09:44 2022 +1000
+
+    css
+
+commit b9d76f88ccd3f2c1914992bf7fc401e9ea73af86
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 21:09:14 2022 +1000
+
+    Create industry_data.html
+
+commit dd18d0e07e2329562a690d344014c9f14526d280
+Merge: ac63fdd ba4b921
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:08:54 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit ac63fdd87e2a40f294facb8650c93d9acfa538fb
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 21:08:51 2022 +1000
+
+    team picture
+
+commit ba4b9219b6e4ccbc7b89ee8d39a6d1bc6e3d2aa4
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:05:03 2022 +1000
+
+    css
+
+commit 3b54d6cd952f94ef11c5ce1f587537d33da8eb2d
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:03:24 2022 +1000
+
+    css
+
+commit 5e1beb2f108e2fa1aaac46870be033fc07a53be2
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:03:17 2022 +1000
+
+    css
+
+commit 71fa0f6bf31a6e98613a58b1316e812ccae38c2a
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 21:01:31 2022 +1000
+
+    css
+
+commit 355084f689f5a2c6d9c8a33f17aed8b831c0bd38
+Merge: c2f7212 2a61908
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:59:55 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit c2f721202feae1192ae60c8f4b3ea321fdf41092
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:59:44 2022 +1000
+
+    css added to all reports
+
+commit 2a61908e37dce0cd7a6946abd8741a66f5df9f5c
+Merge: 1b9f9fc 33d1058
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 20:59:32 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit bc395a49d1d1362027172bfd2bbb95f832f11c81
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:59:05 2022 +1000
+
+    css added to all Technology reports
+
+commit 1b9f9fce03307d0414eb11795e5be038f692cd15
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 20:57:49 2022 +1000
+
+    fixed formatting and styling
+
+commit 13ed471d49af97e902311a6731dd5de11951f46b
+Merge: 812e58d 33d1058
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:57:04 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 33d10581a35d0a8ee0fd94bc815e9f81241d14f4
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:57:00 2022 +1000
+
+    Update industry_data.html
+
+commit 812e58d4f80f6af54b6a78b1403b846112e14863
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:56:59 2022 +1000
+
+    css machine learning
+
+commit f457c6d3e97b432fa1c28f9af530a497e58bb8d1
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:54:15 2022 +1000
+
+    css
+
+commit 546ca962ad2d2161865757cd707f71ce4449c6ed
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:53:54 2022 +1000
+
+    Update industry_data.html
+
+commit dc7bb82966b9a8d68b474034ae940ddde414e5d0
+Merge: 085bc9b e5eab9a
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:53:25 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 085bc9b8285720d43bc24356e6fb926f3cb57f53
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:53:19 2022 +1000
+
+    css technologys
+
+commit 33529639ffe7c829197ce54f976d383421795663
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:52:24 2022 +1000
+
+    technologys css
+
+commit e5eab9a98ad00d63e1bd058bc048f0654c0fbc6b
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:52:02 2022 +1000
+
+    Create industry_data.html
+
+commit 7e8bd000093ed5dabd0d4aad071eb7a2a059d122
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 20:50:29 2022 +1000
+
+    start of css
+
+commit 9edd893eb3cdcb69811a3b9702f291e66e65a972
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 20:36:32 2022 +1000
+
+    hyperlinks on headshots removed
+
+commit b150d29457237b02a62ba9057d8829c77b3d0b4f
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 18:31:42 2022 +0800
+
+    Update industry_data.html
+
+commit f17b67b49ba583ba9553e1be129740919887ac05
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 18:26:49 2022 +0800
+
+    Update IT_Technologies.html
+    
+    fixer
+
+commit 600c8d478c12a25a5c365a2f10736ae15c1e482a
+Author: Cam92A <107534621+Cam92A@users.noreply.github.com>
+Date:   Mon Jul 18 18:21:59 2022 +0800
+
+    Update IT_Technologies.html
+    
+    Fixed links for reports.
+
+commit c1a1af24ba7859627ba46ba959c7250603deca59
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:17:46 2022 +1000
+
+    Update project idea.html
+    
+    removed tools link
+
+commit b0e91412474c2313e6e760a7ed2d563806b291d8
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:15:40 2022 +1000
+
+    Update index.html
+    
+    removed tools link
+
+commit 5c9d286c48f073f220f72beee293912d2ae6bdf7
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:14:14 2022 +1000
+
+    Update industry_data.html
+    
+    Fixed the links
+
+commit b0bd3a4fb6b52c3e41e5754c14cd6b4020e2dd19
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:12:31 2022 +1000
+
+    Update IT_Technologies.html
+
+commit 9c6ff4693f390f811930b2e9d51f86d7e95296e9
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:10:57 2022 +1000
+
+    Update Interview.html
+    
+    removed tools tab
+
+commit 71467e29ec6314b11e28e49b698dfbe356218b85
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:08:44 2022 +1000
+
+    Update IT_Technologies.html
+    
+    Removed irrelevant links
+
+commit 5e811f2cd1958245ddc269911477a134d99076d8
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:04:03 2022 +1000
+
+    Update project idea.html
+    
+    edited because im dumb
+
+commit a2d73ecd6456afd02c81e871beef4b376574eec5
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 20:02:42 2022 +1000
+
+    Update project idea.html
+
+commit 0d2c984007a3ce3cce28da351cf326bda7d710cc
+Merge: 51c12f0 4ca701a
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 19:59:24 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 51c12f06c18d48fdce38c81a05a45c3b91fe3d35
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 19:57:28 2022 +1000
+
+    460 Changed to Yellow
+
+commit 4ca701afd48efe0740f7cf980aa09e4fb3c45ec0
+Author: AGhost97 <107248749+AGhost97@users.noreply.github.com>
+Date:   Mon Jul 18 19:54:27 2022 +1000
+
+    Update Interview.html
+    
+    Updated it to match the word document
+
+commit 53b12e0975147ea45320d898202b4d09188b119d
+Merge: 6e819a7 b303724
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 19:51:08 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 6e819a76fe1194abde6f2a5d810dcbffdacd5297
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 19:50:41 2022 +1000
+
+    Table Changes
+
+commit b3037242ac99e2e202b0dbf86aa001999f67e78a
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 19:41:28 2022 +1000
+
+    pages added as requested
+
+commit fb0a11a2f17d909804a08b671d0dfb3e2fc43dba
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Mon Jul 18 19:31:47 2022 +1000
+
+    Add files via upload
+
+commit c7352d1f17e857e6f85663de7fae5eb6ea2e979e
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 19:10:28 2022 +1000
+
+    Industry Data Table
+
+commit bc0fca806a75ca40581911cb41a6bec7a3c637f0
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 18:55:18 2022 +1000
+
+    Kevin, And deleted scripts at the end
+
+commit dc2389d5f6587e6b31d45c525b9f9ce618de0a9e
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 18:48:24 2022 +1000
+
+    Industry Data Josh
+
+commit 9d5c26cd1878315d147675ebe53679f17d2a01c0
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 18:37:12 2022 +1000
+
+    Team Profiles
+
+commit 79eed2a5a1e3db88a80a7656d0750703111c6c80
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 18:31:31 2022 +1000
+
+    finally
+
+commit d04808bb6bfd2a24a6bb01f5d21a1809ff5f3d33
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 18:27:20 2022 +1000
+
+    1831
+
+commit e85832325b4fb0b4a12db54f178e7589a8d09f6f
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 18:24:28 2022 +1000
+
+    Test 1---
+
+commit 2a0da05cc47c8b072c697df8e928bf2b23b87aec
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:59:53 2022 +1000
+
+    it
+
+commit 2ed60f55281035664d2e62bcdbb62394bbae2148
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:59:23 2022 +1000
+
+    6665
+
+commit bd14ec4e5cfecacea51b345e9b2f115bf0e3bf2e
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:58:40 2022 +1000
+
+    Testing
+
+commit 9c01eee28e79e17407817fb6e9743f2381d6c78c
+Merge: ce21709 612ee37
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:53:13 2022 +1000
+
+    Merge pull request #1 from Rogelio-Espinoza/JACKNORTHWAY-patch-1
+    
+    Update index.html
+
+commit 612ee374bab3fe5f6b0ab26f667113a76a0285d4
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:52:28 2022 +1000
+
+    Update index.html
+
+commit ce21709609d72fad63f00494b14e5a66e9c59831
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:48:10 2022 +1000
+
+    test 548
+
+commit 8e48397febc0640c419e4d07cb0a1485ab8529e6
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:33:20 2022 +1000
+
+    Update index.html
+
+commit 836aa127d28fc47ea4c824f675025ab4d50cde8c
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:22:07 2022 +1000
+
+    TEST TEST
+
+commit 1edc83739615e4dff1b19bc5d07cc820ab8ba668
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:21:01 2022 +1000
+
+    TEST
+
+commit e7e0edc1c297cd8fea0880e8c6b5dd9948f565f3
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:18:23 2022 +1000
+
+    TEST TEST
+    TEST
+
+commit 88c33ddd8b4dafe68d69b0fbc9d69c45428c57af
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:17:48 2022 +1000
+
+    TEST TEST
+
+commit fea70cfb14609290d164c48665cda6d9590b80ce
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:16:04 2022 +1000
+
+    TEST TEST
+
+commit 39d3cace33a098363f454de452e312813407520d
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Mon Jul 18 17:12:56 2022 +1000
+
+    TEST TEST
+
+commit 8bfd2263d3a64be2ac0a603d076121beff77ae99
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 17 11:35:02 2022 +1000
+
+    General fixes
+    
+    Fixed naming convention for webpages, uploaded project idea, deleted redundant webpages, formatted NAV bar
+
+commit 983004f992c4244b719cf711ad8b1606237affb5
+Merge: 97b1a76 599aaf6
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sat Jul 16 22:45:10 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 97b1a76d8a6339d42981e7bd854aad4bb28d1a57
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sat Jul 16 22:44:51 2022 +1000
+
+    Finished IT reports page
+
+commit 599aaf67641dfdbb2c78bfbd34ebb5b82d935e19
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Sat Jul 16 21:31:39 2022 +1000
+
+    Update index.html
+    
+    Changed Wording, In Jack Northway's Team Profile, also made the changes on the word document
+
+commit 0611eaa65fd4c3d6a3a201c2faa3ef90ad8785db
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sat Jul 16 21:00:39 2022 +1000
+
+    Fixed NAV bar on webpages
+    
+    Fixed Nav bar, added pictures
+
+commit 9f44c0db6f8836afd9a5d97aeac4be01b0ce63b2
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sat Jul 16 19:06:11 2022 +1000
+
+    Update for report page
+
+commit 4863ef22758e95dd3ad272307357c6c329eeffe5
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Thu Jul 14 15:16:09 2022 +1000
+
+    Quick fix on NAV bar in index.html
+    
+    changed the wrong link in pervious edit
+
+commit b9d60b6bd19eaebbcf221d03e7dd40779324e151
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Thu Jul 14 15:13:34 2022 +1000
+
+    Navigation bar on index.html fix
+
+commit d12b4319ec203fd5a2a44646dc47ae3d2b815b94
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Thu Jul 14 15:10:45 2022 +1000
+
+    Update for IT_Technologies page
+    
+    need more reports to continue
+
+commit 15d2039ba2d468520a6cec19af0ce1c07ca78363
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Thu Jul 14 14:12:43 2022 +1000
+
+    Started IT Technologies page
+    
+    Will continue work on webpage, just testing
+
+commit 19b1a6ee79fd390052d38c23d8a14e5921d0e4ff
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Thu Jul 14 10:58:38 2022 +1000
+
+    Update index.html
+
+commit ed14f5b89fe7666c00d7cd3371dd361e683fa7c9
+Author: JACKNORTHWAY <106805643+JACKNORTHWAY@users.noreply.github.com>
+Date:   Wed Jul 13 20:37:41 2022 +1000
+
+    Update INDEX.HTML
+    
+    Changed my team profile, (Jack Northway)
+
+commit fb4903a0c6b460b50fa54f7f9aa884daa5dc52ee
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 15:22:48 2022 +1000
+
+    .
+
+commit e0ddeef98ab70590647e5ffa9f8ecd0f48ba50fb
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 15:21:03 2022 +1000
+
+    Profie description update- Rogelio
+
+commit f4ae7e69f6f1bda3ab3745fa3def0652e098310c
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:48:09 2022 +1000
+
+    Rogelio's Profile
+
+commit 7eb3514176e6540e0caaa8ea2baf9f13b3d513bc
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:40:53 2022 +1000
+
+    Fixing profile info
+
+commit 2fc43ace909d58ef5610fa501e91c5ee9fc3cfd4
+Merge: edba311 1fd7ec9
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:38:54 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit edba311fbf55ccc05dfef8c954856a582a193c29
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:35:19 2022 +1000
+
+    Added Avatar
+
+commit 06ff11170c253d886fc0a6bed649223246798855
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:32:38 2022 +1000
+
+    Rogelio's Profile Picture added to Github repository
+
+commit 1fd7ec9e11e6885525ab043221959fef8e33e934
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:17:54 2022 +1000
+
+    d
+
+commit 8122554e955b185e20f75b75a1237e090a16206e
+Merge: a271e67 b5d9d07
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:14:57 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit a271e679732108c529bba31095fb9d53ee289d7f
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:14:39 2022 +1000
+
+    Rogelio's Profile Picture added to Github repository
+
+commit 1aa9ca7bcb43b7888ed2fcc4ed189355fc538633
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:13:57 2022 +1000
+
+    update
+
+commit b5d9d07cee5b90c70e24bb2e4ff56301a1e56291
+Merge: 7cec0e5 46e7a5c
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:10:33 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 7cec0e548cc74a2b470c7b848e34c290350bc245
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 14:09:38 2022 +1000
+
+    Rogelio's Profile picture added
+
+commit 037bb8df3c8f7c0dc50ea4ac8b0ec288ba1713fc
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 13:57:53 2022 +1000
+
+    Rogelio's Profile Picture added to Github repository
+
+commit 46e7a5c64afd4b75eb21a431a0556ce730d52e59
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 13 13:49:13 2022 +1000
+
+    Rogelio's Profile Picture added to Github repository
+
+commit 9d2056bdf3ead900853a53bcaa261d6df53d5005
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Tue Jul 12 19:27:30 2022 +1000
+
+    minor formatting and content contributions.
+
+commit 7046fe1e04def296951e3dfc9ecbd31723afec4c
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Tue Jul 12 16:35:04 2022 +1000
+
+    Added photos of Jack and Northy
+
+commit 16471d813478ddce43ca1a4eeffdef9e6a348e67
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Tue Jul 12 16:30:10 2022 +1000
+
+    Pages structure updated. Content added.
+
+commit 0c5691382a2a73b3612826a366dad707e4c77c4f
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Tue Jul 12 14:19:22 2022 +1000
+
+    renamed page
+
+commit 02f2912ee090d9d798b6d6ad30464588bce72277
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Tue Jul 12 14:17:59 2022 +1000
+
+    suggestion for ideal jobs content
+
+commit cfe596e4d1f6149ffafef84ee67caa2b3f90c1ba
+Merge: 86bc737 9ede476
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:49:59 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 86bc7376a142f5cdcb4576e79d97830528ec7cb9
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:49:43 2022 +1000
+
+    Team Members
+
+commit 7e3f274770a89ddfbe6c228fd8f254a5bb149ff3
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:48:50 2022 +1000
+
+    Team Members names added
+
+commit 9ede476ff236d9f6715c5101dc8575768db3f928
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Sun Jul 10 19:44:39 2022 +1000
+
+    Typo correction
+
+commit 399084a519f8bed71cca1eda21f196cb83998564
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:44:25 2022 +1000
+
+    Photo's added
+
+commit d52ff932bb1e29337b1c07aa5870007b06ddeaca
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:41:35 2022 +1000
+
+    Josh picture added
+
+commit aee2e8f880a13b6a84c505f72d98d1a03ea54d55
+Merge: 189723d 7371910
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Sun Jul 10 19:41:15 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 189723d8e8150f21ce44b3bca12b9ac34879e59e
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Sun Jul 10 19:41:12 2022 +1000
+
+    Corrected name, updated video link
+
+commit 7371910f998d4c483c8534d61d38be1f6a52e265
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:35:30 2022 +1000
+
+    Intro: Information Technology
+
+commit 4bc34c6304d9f5b8d423a798a18339e032471315
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:30:33 2022 +1000
+
+    changed student email location
+
+commit b459a39cb0575362419057445a380e1bc7799cef
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:27:45 2022 +1000
+
+    Resizing RMIT logo to 450px
+
+commit 426070e732374d71785f13fea7e0da067eccdb07
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:19:58 2022 +1000
+
+    Undo
+
+commit 58030c5cb5bdfedbdf7b1d8ff56630871c03a0c6
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:17:28 2022 +1000
+
+    something
+
+commit 97a79c2a40ea7b61786c03a291cba9c631302808
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:13:03 2022 +1000
+
+    RMIT logo resize
+
+commit ee1db8e364d19002fdead858de6c6fa9e3c5e412
+Merge: 1619555 bb426f9
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:02:20 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 16195555d2503fcee24f2092f5a5f606663d0fba
+Merge: e5437aa 9e6bbdb
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 19:01:22 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit bb426f9c6e5d28af9a8d0930f92f5863db185a4b
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:58:20 2022 +1000
+
+    Update index.html
+
+commit f78a64c0eb12b1ac95734d009a6712c8fa879d37
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:55:38 2022 +1000
+
+    Update index.html
+
+commit 68ef3acabc78b4ae54184176f99d079d4aef4ff8
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:53:49 2022 +1000
+
+    Hight adjustment
+
+commit f55ae99feb3325033db58c914e73de018539c8f8
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:52:12 2022 +1000
+
+    Hight adjustment
+
+commit e5437aa07c204df1f5d76ffce16c352825dc2a93
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:51:40 2022 +1000
+
+    Team's logo downscaled
+
+commit 9e6bbdbe5bdb2040753aef25ce5875c0df8a7ac9
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:51:01 2022 +1000
+
+    Update index.html
+
+commit ffd876df1455f31017655a1c133b7b61df4e9578
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:48:01 2022 +1000
+
+    Update index.html
+
+commit c492cfd12f352b623855c78f8309428d7cb40fad
+Merge: 70b92f2 d612075
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:46:58 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit 70b92f25aba0c58e94917a0696f2379b5f0466db
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:46:45 2022 +1000
+
+    Undo
+
+commit d6120752aaf50076624ab25f7ce8307a3ec742dc
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 18:45:20 2022 +1000
+
+    Add Headshots
+    
+    added two headshots due to not having access to everyone's AT 1
+
+commit 17ac120a54194c86880a6ae337f77478ebf9d046
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:44:42 2022 +1000
+
+    Undo
+
+commit 1414a458cf7aa45930d1600e8a584a6e2fa29c51
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:43:00 2022 +1000
+
+    Deleted Pagination
+
+commit ed0c29d752230e5b79d3fb06e7b0c3afbc8a7ca3
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:38:15 2022 +1000
+
+    Deleted paragraph text
+
+commit b7c0fbb72e74a8971a45ad57bcfda3ad5358bf08
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:36:17 2022 +1000
+
+    Deleted "continue reading"
+
+commit f1da9f2898a71f5d8046d1342fd909a9741d0a36
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:34:47 2022 +1000
+
+    deleted footer paragraph
+
+commit 10550af34c08ff8598d47dd224234fce902098f6
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:32:17 2022 +1000
+
+    Deleted "continue reading"
+
+commit 5fa171b8792673fd14388fcef0a42a21aecdc1c1
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:30:54 2022 +1000
+
+    Bigger Gaps
+
+commit 51e278d063bc53457d00b219d96b65d963c60245
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:28:26 2022 +1000
+
+    Deleted "continue" button
+
+commit 0757a068b921dcecae6b4f8d3cd262778d119fe3
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:26:03 2022 +1000
+
+    Deleted "New Box" section
+
+commit d15c15453743da3eec1d89d0164f76d405edbe19
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:23:35 2022 +1000
+
+    Deleted "New Box"
+
+commit 05163b3cfa6539e3791ebea33c8f53eed15cdf48
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:21:41 2022 +1000
+
+    Update
+
+commit 580ad5099c8df0d9b293f5c1e69da0a43813f19a
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:14:30 2022 +1000
+
+    RMIT Logos added
+
+commit 6d7ce8bc34d73488c0785343e836964bb9b069f0
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:08:36 2022 +1000
+
+    Added Team Logo
+
+commit a0a928fe87dc4bd23e8c9af9d1eab86c007815cc
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:05:53 2022 +1000
+
+    Added Team Logo
+
+commit 62d9657721107484c6cdf27cba78d8d912a50040
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 18:02:16 2022 +1000
+
+    Body Text
+
+commit af6a602945131bea5f257afe94294e57807e09d2
+Merge: df2d120 3c13310
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 17:53:26 2022 +1000
+
+    Merge branch 'main' of https://github.com/Rogelio-Espinoza/A2
+
+commit df2d120b041414372222586b66bbceaac8941c7b
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 17:53:18 2022 +1000
+
+    Group Charlie
+    Edited- Title
+    Members names added
+    and few additional changes
+
+commit 3c133106acb27b18b697ee1cd8bbea16bdae90a8
+Author: KingKinkey <67536529+KingKinkey@users.noreply.github.com>
+Date:   Sun Jul 10 15:40:23 2022 +1000
+
+    Add files via upload
+
+commit c5a4f4bff4e8235982510568a06f67d5ec4c80ab
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 15:02:24 2022 +1000
+
+    Interview with a senior IT Engineer
+
+commit ab38b208b433651928d0c2f057c53cee72e31769
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:58:03 2022 +1000
+
+    Avatar change
+
+commit e41c22dc68b64f5d8f72973efac0d95da5f5d11e
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:56:12 2022 +1000
+
+    Introduction to Information Technology
+
+commit e7a4e5b2c2a5a602a7a314b77c16e99354676329
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:46:52 2022 +1000
+
+    400px logo upscaling
+
+commit 56465ee53a6b53edc9a9cc7dbe936f40ea0a113e
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:45:31 2022 +1000
+
+    Upscaling Team logo to 300px
+
+commit 1d3f73689eed0cf35fffb80796a84bdb9f6fc345
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:44:01 2022 +1000
+
+    Downscaling of logo
+
+commit 129e4f2ee22b02fdee3e0e3ff72a0d4d205e6001
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:40:54 2022 +1000
+
+    Downscaling Team group logo
+
+commit 0b17bccea96a38054d6049516cf35c53aa8aa87a
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:39:39 2022 +1000
+
+    downscaling logo
+
+commit 4ae3ed96ba4b847de5ee7b14721697714128336f
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:38:22 2022 +1000
+
+    Logo size change
+
+commit 89d46b0cfed144d8c3f6bc9b5569de01ebe70ae2
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:37:13 2022 +1000
+
+    RMIT Logo
+
+commit 8794a40958647a1eeaad312a83f26cfa8ba42ee8
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:31:01 2022 +1000
+
+    Team Logo
+
+commit c55f4b376c025b2e560868bb5e1bb284b736ad75
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 14:29:05 2022 +1000
+
+    RMIT Team Logo
+
+commit ff0d2bf9a9932ccd1537e6f4f8bc617abf63e635
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 13:51:29 2022 +1000
+
+    Team Charlie Title and Body paragraph
+
+commit e1d58e42186864ae8c7686ed5f7da02cc8a98581
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 13:42:11 2022 +1000
+
+    Team Profile
+
+commit ef216e6fc07d3b7ea15f76a62e237860690ee030
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 13:35:59 2022 +1000
+
+    Added Espinoza
+
+commit 47991caf4b23afdac4f182811669acf82eba451b
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 13:34:45 2022 +1000
+
+    Remove li.
+
+commit ffc3633829a594360b21cfd836732e4777c4ed42
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 13:33:11 2022 +1000
+
+    Team Names
+
+commit eb5a8da2b8f75110220eb4b19d1101c86018eb45
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sun Jul 10 13:27:55 2022 +1000
+
+    Added content
+
+commit 21d33fd10d8b9c084631dc34e278540b9b564ab9
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Sun Jul 10 00:36:27 2022 +1000
+
+    Final draft completed. Ready for review.
+
+commit 51f041309f1305ca664058dc4f9fd908c44f4451
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Sat Jul 9 21:49:46 2022 +1000
+
+    demonstrating to Roglio
+
+commit 5ffafd843dae6d18edbe93e66848029e39aeb021
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sat Jul 9 21:44:32 2022 +1000
+
+    changed to colours
+
+commit d7179fb043ed453d6b6861c49cc80dff3aebf9b8
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Sat Jul 9 21:34:21 2022 +1000
+
+    resolving local sync
+    
+    resolving local sync
+
+commit 4ed031e3079b07969b2b375c33025bd71ca582ed
+Author: ThomasJeremiah <107043807+ThomasJeremiah@users.noreply.github.com>
+Date:   Sat Jul 9 11:48:32 2022 +1000
+
+    Created page.
+    Modified template to remove unnecissary search/social meadia/ etc.
+    Embedded interview recording.
+
+commit 3c9433472318d5c67935b218b3e5175bde1438b6
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:19:57 2022 +1000
+
+    Delete folder.svg
+
+commit 49a9552bb6309809ae5476a5166a4ffa088c518e
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:18:43 2022 +1000
+
+    HTML Files for Template
+    
+    Template
+
+commit 4747063e623e6838ac6ceef96bff5a20f928add5
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:15:42 2022 +1000
+
+    Delete single.html
+
+commit a5b8c2a7b43eb75c1e1db5a83cd083169ec7ad44
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:15:27 2022 +1000
+
+    Delete index.html
+
+commit df653f4bd157daed2a309a6fdee7ad411a6037ad
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:15:13 2022 +1000
+
+    Delete Single Template
+
+commit 075610fc669c79d3b8cbb6fb85f3ab0f7bd3725e
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:14:57 2022 +1000
+
+    Delete README.txt
+
+commit 2f01bf419585f27e418e4a84b4cbec42d6dccf27
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:14:47 2022 +1000
+
+    Delete LICENSE.txt
+
+commit 6c8ffce4d7e288d9199e12b9317ed876b47a0d57
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:14:33 2022 +1000
+
+    Delete Index,html Template.md
+
+commit a99de865bb0b184c48e8396d4fb7140568c940cd
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:06:21 2022 +1000
+
+    Update index.html
+
+commit 578cd1cf87099fa1a37e427092e33d0411ed3c5a
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 18:03:08 2022 +1000
+
+    Update Index,html Template.md
+
+commit b11439d25c04263896dbec19d81f36340950a064
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:49:17 2022 +1000
+
+    Update and rename README.md to Index,html Template.md
+    
+    HTML File containing Future Imperfect Template
+
+commit 6a5917158d664212b9690dd8ef9f75e5431d8b64
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:39:16 2022 +1000
+
+    Update and rename A2 Group Assignment to Single Template
+    
+    This is the Index.html Future Template to work on.
+
+commit c7124c51dccd4c03ba1d410f5bcc7fbc5436cb3d
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:35:00 2022 +1000
+
+    Create A2 Group Assignment
+
+commit cec7e7bab400e39b09a0bd3b7b24678e6f85fd97
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:30:57 2022 +1000
+
+    A2 Group Assignment
+    
+    A2 Group Assignment using Future Imperfect Template
+
+commit c89f9c93dcfd24ef35b9f743f0a9f8b19d1be5fd
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:18:25 2022 +1000
+
+    Template for A2
+    
+    Template for A2  Group Assignment using Future Imperferct Template.
+
+commit d75a6eca0a6fa26d1afcd59676fa6d82f43a966b
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:12:09 2022 +1000
+
+    Delete index.html
+
+commit 90580cb90367d7eab15fd3fb62cb15741d7a5d61
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:11:57 2022 +1000
+
+    Delete Student Name - ePortfolio.html
+
+commit b9f0e9757079b75e573c05782d21ee979a7bd874
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:11:44 2022 +1000
+
+    Delete style.css
+
+commit 821cb202e0d9d10ef6a1ad32c95d533536497b42
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 17:10:28 2022 +1000
+
+    Delete assets
+
+commit 5162a5889fc8637e9f1acc4dc463da0906d5e64d
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Fri Jul 8 13:36:40 2022 +1000
+
+    Add files via upload
+
+commit 1f022e03b89b349af91556c42d7869eaae3e6759
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Thu Jul 7 15:42:17 2022 +1000
+
+    A2 Team Profile
+
+commit 91f4d8bc2e7315fa9d3587df9412b8d5e19e6322
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Thu Jul 7 13:44:51 2022 +1000
+
+    Create README.md
+
+commit 4ec570ae5e320bc1168942133f4bd436e6851d38
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:39:09 2022 +1000
+
+    Uploading a website for A2 (Group Work)
+    
+    Website for Group Work Assignment
+
+commit 02043a9173ab304eab23cc4be4517d197024138b
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:33:11 2022 +1000
+
+    Delete Student Name - ePortfolio.html
+
+commit dbe0f7ce2ea18f2876d6a5b2d2107a755cd8e22e
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:32:59 2022 +1000
+
+    Delete Index.html
+
+commit cfd70c0f1bd5410a367a129995281e0aa0a7d070
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:31:36 2022 +1000
+
+    Delete index.html
+
+commit a058858d6f6a8b54efe2f6359d7513d16fd42c48
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:23:47 2022 +1000
+
+    html.index
+    
+    html.index for A2 (Group Work)
+
+commit 10423a85a9ca9af6b5312a12eca563a78913bdf5
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:16:25 2022 +1000
+
+    index.html for A2 (Group work)
+    
+    Assignment 2
+
+commit 3e8a2d38a76f924fe2d5e4e77692a2b648a53596
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 22:06:03 2022 +1000
+
+    Delete Student Name - ePortfolio_files directory
+
+commit 8d75913f7cd51006389a37c9e8bc5f3b5cffeed3
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 21:53:53 2022 +1000
+
+    Rename Student Name - ePortfolio.html to Index.html
+
+commit f912542fb851509f84a9a8e8f1750151745182bb
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Wed Jul 6 21:23:51 2022 +1000
+
+    Uploading Website For Assignment 2
+    
+    Creating a Website for Assignment 2 group project for Introduction to Information Technology
+
+commit 6587276f8b6a6188f95eeee0940670519942971d
+Author: Rogelio-Espinoza <106962903+Rogelio-Espinoza@users.noreply.github.com>
+Date:   Tue Jun 28 19:19:21 2022 +1000
+
+    Add files via upload
