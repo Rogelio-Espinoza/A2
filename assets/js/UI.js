@@ -18,10 +18,12 @@ let c3;
 function setup() {
   createCanvas(950,900);
   
+  push();
   ph = createSlider(75, 225, 145);
-  ph.position(500, 400);
   ph.style('width', '200px');
   ph.style("transform", "rotate(90deg)");
+  ph.position(500, 400);
+  pop();
   
   conduct = createSlider(75, 225, 190);
   conduct.position(575, 400);
