@@ -1,4 +1,4 @@
-console.log('Test')
+
 let circle1;
 let circle2;
 let circle3;
@@ -16,7 +16,9 @@ let c2;
 let c3;
 
 function setup() {
-  createCanvas(950,900);
+  const canvas = createCanvas(950,900);
+  canvas.parent('canvasForHTML')
+
   
   push();
   ph = createSlider(75, 225, 145);
