@@ -1,3 +1,4 @@
+console.log('Test')
 let circle1;
 let circle2;
 let circle3;
