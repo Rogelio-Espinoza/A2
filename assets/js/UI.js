@@ -17,22 +17,22 @@ let c3;
 function setup() {
   createCanvas(950,900);
   
-  ph = createSlider(75, 225);
+  ph = createSlider(75, 225, 145);
   ph.position(500, 400);
   ph.style('width', '200px');
   ph.style("transform", "rotate(90deg)");
   
-  conduct = createSlider(75, 225);
+  conduct = createSlider(75, 225, 190);
   conduct.position(575, 400);
   conduct.style('width', '200px');
   conduct.style("transform", "rotate(90deg)");
   
-  temp = createSlider(75, 225);
+  temp = createSlider(75, 225,210);
   temp.position(650, 400);
   temp.style('width', '200px');
   temp.style ("transform", "rotate(90deg)");
   
-  turbidity = createSlider(75, 225);
+  turbidity = createSlider(75, 225, 220);
   turbidity.position(725, 400);
   turbidity.style('width', '200px');
   turbidity.style("transform", "rotate(90deg)");
@@ -209,12 +209,59 @@ if (val4 < 178){
   fill(255, 255, 0);
   text('100', 760, 90);
   text('0', 780, 220);
+
+  let rotation_angle = 45
+
+  //rotate text
+  push();
   fill(255, 0, 0);
-  text('ph', 590, 550);
+  translate(585,520);
+  rotate(radians(rotation_angle));
+  text('Ph', 0, 0);
+  pop();
+
+  //rotate text
+  push();
   fill(0, 255, 0);
-  text('Conductivity (v)', 625, 571);
+  translate(660,520);
+  rotate(radians(rotation_angle));
+  text('Conductivity (v)', 0, 0);
+  pop();
+
+  //rotate text
+  push();
   fill(0, 0, 255);
-  text('Temperature (celsius)', 690, 550);
-  fill(255, 255, 0);
-  text('Turbidity (%)', 780, 571);
+  translate(735,520);
+  rotate(radians(rotation_angle));
+  text('Temperature (celsius)', 0, 0);
+  pop();
+  
+  // rotate text
+    push();
+    fill(255, 255, 0);
+    translate(810,520);
+    rotate(radians(rotation_angle));
+    text('Turbidity (%)', 0, 0);
+    pop();
+
+  //Ph value mapped to range and slider value displayed
+  fill(0,0,0);
+  let indicator_val_ph = map(val1,75,225,14,0).toFixed(2);
+  text(indicator_val_ph,575,290);
+
+  //Conductivity value mapped to range and slider value displayed
+  //invert the mapping range if you invert the scale
+  fill(0,0,0);
+  let indicator_val_cond = map(val2,75,225,0,5).toFixed(4);
+  text(indicator_val_cond,640,290);
+
+  //Temperature value mapped to range and slider value displayed
+  fill(0,0,0);
+  let indicator_val_temp = map(val3,75,225,50,0).toFixed(0);
+  text(indicator_val_temp,735,290);
+
+  //Turbidity value mapped to range and slider value displayed
+  fill(0,0,0);
+  let indicator_val_turb = map(val4,75,225,100,0).toFixed(0);
+  text(indicator_val_turb,810,290);
 }
