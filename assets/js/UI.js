@@ -16,7 +16,7 @@ let c2;
 let c3;
 
 function setup() {
-  const canvas = createCanvas(950,900);
+  const canvas = createCanvas(900,680);
   canvas.parent('canvasForHTML')
 
   
@@ -24,6 +24,7 @@ function setup() {
   ph = createSlider(75, 225, 145);
   ph.style('width', '200px');
   ph.style("transform", "rotate(90deg)");
+  ph.style("background","red");
   ph.position(500, 400);
   pop();
   ph.parent('phSlider');
@@ -34,6 +35,7 @@ function setup() {
   conduct.position(575, 400);
   conduct.style('width', '200px');
   conduct.style("transform", "rotate(90deg)");
+  conduct.style("background","green")
   pop();
   conduct.parent('condSlider');
   
@@ -42,6 +44,7 @@ function setup() {
   temp.position(650, 400);
   temp.style('width', '200px');
   temp.style ("transform", "rotate(90deg)");
+  temp.style("background","blue")
   pop();
   temp.parent('tempSlider');
 
@@ -50,6 +53,7 @@ function setup() {
   turbidity.position(725, 400);
   turbidity.style('width', '200px');
   turbidity.style("transform", "rotate(90deg)");
+  turbidity.style("background","yellow")
   pop();
   turbidity.parent('turbSlider');
   
@@ -134,6 +138,7 @@ function draw() {
   let c2 = color (255, 255, 0);
   let c3 = color(0, 255, 0);
 
+  /*
   fill (c);
   //red circle
 if (val1 < 120 || val2 < 117 || val3 < 183 || val4 < 131 || val1 > 180 || val2 > 216.6){
@@ -203,17 +208,37 @@ if (val4 < 178){
   fill (c);
 }
   circle3 = circle(350, 150, 50);
+  */
+
+  //fill values map to 'c1 = red, c2 = yellow, c3 = green, c = nofill'
+  //variable map to 'val1 = PH, val2 = conductivity, val3 = temp, val4 = turbidity'
+  //val1 >120 && val1 <140 || val1 >160 && val1 <180 || val2 >117 && val2 <183 || val2 >197 && val2 <216 || val3 >183 && val3 <197 || val4 >131 && val4 <178
+  if (val1 < 120 || val1 > 180 || val2 <117 || val2 >216 || val3 < 183 || val4 <131){
+    fill(c1);
+    textSize(50)
+    text('Warning!!',200,110)
+  } else if(val1 >=120 && val1 <140 || val1 >160 && val1 <=180 || val2 >=117 && val2 <183 || val2 >197 && val2 <=217 || val3 >=183 && val3 <197 || val4 >=131 && val4 <178){
+    fill(c2);
+    textSize(50)
+    text('Caution!',200,110)
+  } else{
+    fill(c3);
+    textSize(50)
+    text('Safe',200,110)
+  }
+    single_circle = circle(100,100,50)
+
   
   fill (0);
   textSize(25);
-  text('This example here is our planned', 50, 300);
-  text('UI for our Audino as part of our project.', 50, 331);
-  text('Each of the sliders correspond to the', 50, 362);
-  text('scales above them. If all the values', 50, 393);
-  text('are in the green the left screen the right', 50, 424);
-  text('light goes green. If otherwise the lights', 50, 455);
-  text('go to the most extreme value possible', 50, 486);
-  text('based on the data given. Try it yourself.', 50, 517);
+  text('The sliders to the right represent ', 50, 300);
+  text('the signals received from each of the', 50, 331);
+  text('four sensors the device employs.', 50, 362);
+  text('', 50, 393);
+  text('Manipulating the position of each', 50, 424);
+  text('slider demonstrates the effect of', 50, 455);
+  text('changes in the water flowing through', 50, 486);
+  text('the sensor device.', 50, 517);
   textSize(20);
   fill(255, 0, 0);
   text('14', 545, 90);
@@ -265,21 +290,21 @@ if (val4 < 178){
   //Ph value mapped to range and slider value displayed
   fill(0,0,0);
   let indicator_val_ph = map(val1,75,225,14,0).toFixed(2);
-  text(indicator_val_ph,575,290);
+  text('PH: ' + indicator_val_ph,80,150);
 
   //Conductivity value mapped to range and slider value displayed
   //invert the mapping range if you invert the scale
   fill(0,0,0);
   let indicator_val_cond = map(val2,75,225,0,5).toFixed(4);
-  text(indicator_val_cond,640,290);
+  text('Conductivity: ' + indicator_val_cond + ' volts DC',80,175);
 
   //Temperature value mapped to range and slider value displayed
   fill(0,0,0);
   let indicator_val_temp = map(val3,75,225,50,0).toFixed(0);
-  text(indicator_val_temp,735,290);
+  text('Temperature: ' + indicator_val_temp + '°C',80,200);
 
   //Turbidity value mapped to range and slider value displayed
   fill(0,0,0);
   let indicator_val_turb = map(val4,75,225,100,0).toFixed(0);
-  text(indicator_val_turb,810,290);
+  text('Turbidity value: ' + indicator_val_turb,80,225);
 }
