@@ -26,21 +26,34 @@ function setup() {
   ph.style("transform", "rotate(90deg)");
   ph.position(500, 400);
   pop();
+  ph.parent('phSlider');
   
+  
+  push();
   conduct = createSlider(75, 225, 190);
   conduct.position(575, 400);
   conduct.style('width', '200px');
   conduct.style("transform", "rotate(90deg)");
+  pop();
+  conduct.parent('condSlider');
   
+  push();
   temp = createSlider(75, 225,210);
   temp.position(650, 400);
   temp.style('width', '200px');
   temp.style ("transform", "rotate(90deg)");
-  
+  pop();
+  temp.parent('tempSlider');
+
+  push();
   turbidity = createSlider(75, 225, 220);
   turbidity.position(725, 400);
   turbidity.style('width', '200px');
   turbidity.style("transform", "rotate(90deg)");
+  pop();
+  turbidity.parent('turbSlider');
+  
+
   
 }
 function draw() {

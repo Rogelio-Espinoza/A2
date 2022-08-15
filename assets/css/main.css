@@ -2351,6 +2351,8 @@ input, select, textarea {
 				width: 100%;
 			}
 
+	
+
 /* List */
 
 	ol {
@@ -2739,6 +2741,17 @@ input, select, textarea {
 		margin: 0 0 3em 0;
 		position: relative;
 	}
+
+	.post > #canvasForHTML {
+		position: relative;
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		position: inherit;
+	}
+
+
 
 		.post > header {
 			display: -moz-flex;
