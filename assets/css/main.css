@@ -2750,6 +2750,11 @@ input, select, textarea {
 		display: flex;
 		position: inherit;
 	}
+	
+	.post > #phSlider {
+		position: absolute;
+	}
+
 
 
 
