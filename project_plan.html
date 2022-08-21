@@ -190,7 +190,7 @@
 
 								<h2><a id="Detailed Description">Detailed Description</a></h2>
 
-								<h4><a id="Housing and fittings"></a>Housing and fittings</h4>
+								<h3><a id="Housing and fittings"></a>Housing and fittings</h3>
 								<p>Materials for the sensor housing were selected based on availability, service life, and cost.</p>
 								<ul>
 									<li>Domestic grade PVC (polyvinyl chloride) pipe & Fittings
@@ -214,24 +214,25 @@
 								<br>
 								<p>The main sensor body as currently designed is constructed of ~100mm (4”) PVC pipe, with commercially available threaded couplings glued into place. This fabrication technique is expected to be adequate for testing purposes, however the final product will be constructed as a single homogeneous component. Any designs intended for external testing or commercial sale will include pressure ratings in compliance with the applicable regulations. </p>
 
-								<h2><a id="Electronics housing"></a>Electronics housing</h2>
+								<h3><a id="Electronics housing"></a>Electronics housing</h3>
 								<a class="image left"><img src="images/project_plan_images/Electronics enclosure v5.png" alt=""/>figure 2</a>
 								
 								<p>A standard format PVC or ABS project enclosure will be employed to house the electronics, including the AD-DC power supply and Arduino (Figure 2). For prototyping a 150L x 200W x 60D enclosure was selected allow sufficient space for additional components to be added during development. The final configuration will be sized to the minimum possible dimensions. </p>
-								<br><br><br><br><br><br><br><br><br>
+								<br><br><br><br><br><br><br><br><br><br>
 
-								<h2><a id="Computing, electronics, and connectors"></a>Computing, electronics, and connectors</h2>
+								<h3><a id="Computing, electronics, and connectors"></a>Computing, electronics, and connectors</h3>
 								<a class="image left"><img src="images/project_plan_images/Sensor interface board v3.png" alt="" height="300" />figure 3</a>
 								
 								<p>The use of a full-size Arduino Uno will also be re-considered in future iterations. A custom PCB (Figure 3) integrating the power supply, microcontroller, the sensor interface board (see below), and the PH meter controller will reduce the physical footprint of the electronics, as well as reducing the total number of components. </p>
 								<p>The inclusion of a visual display in the prototype design enables onboard monitoring and control during testing and development. For the final design, this would be replaced with a series of LED indicators, reducing the cost, and simplifying the construction and assembly of the electronics enclosure. Detailed monitoring and control of the device will be achieved through a network interface, embedded in a mobile application. </p>
 								<P>External connectors will be of waterproof, detachable design for ease of installation and maintenance.  </P>
 								<br>
-								<P>Lemo type connectors have been used in the prototype modeling for sensor housing connections, however screw type (Figure 4) fittings will be used for the final design, as there is no need for frequent disconnections which would justify the additional cost associated with the Lemo style. In the prototype design an IEC C14 (Interpower IEC 60320 C13 and C14, 2022) mains power connection has been used, this will also be reviewed to ensure safety and regulatory compliance obligations are met in the final design. </P>
+								
 								
 								
 								<a class="image left"><img src="images/lemo.JPG" alt="" height="300" />figure 4</a>
-								<br><br><br><br><br><br><br><br><br><br><br><br><br>
+								<P>Lemo type connectors have been used in the prototype modeling for sensor housing connections, however screw type (Figure 4) fittings will be used for the final design, as there is no need for frequent disconnections which would justify the additional cost associated with the Lemo style. In the prototype design an IEC C14 (Interpower IEC 60320 C13 and C14, 2022) mains power connection has been used, this will also be reviewed to ensure safety and regulatory compliance obligations are met in the final design. </P>
+								<br><br><br><br><br><br>
 								<P>The PCB included in the prototype design (Figure 3) contains the minimum external circuitry required to generate a signal which can be ingested by the Arduino platform.  
 									
 									<h4>Camera</h4>
@@ -392,7 +393,7 @@
 									<br><br>
 
 									<h5>Functionality testing sandbox:</h5>
-									<br>
+									
 									A representation of a water source will be produced, with interactive controls for modifying the parameters being sampled by the device included. 
 									<br>
 									The logic to convert raw sensor inputs and convert to high level values will be developed and tested. 
@@ -411,12 +412,12 @@
 									
 									<br><br><h5>CAD model circuits :</h5> 
 
-									<br>All electronics circuitries will be modeled in a CAD environment with iterative design operating in parallel with the physical modeling to produce compact, effective Printed Circuit Board (PCB) designs, well suited to the intended application. 
+									All electronics circuitries will be modeled in a CAD environment with iterative design operating in parallel with the physical modeling to produce compact, effective Printed Circuit Board (PCB) designs, well suited to the intended application. 
 
 									<br><br><h3>3. Construction of physical devices: </h3>
 
 
-									<br>Once all development pathways in the digital space have been exhausted, construction of physical prototypes will commence. This phase will uncover many challenges not identified through the initial CAD modeling process, with iterative design falling back to the digital phases to resolve issues. 
+									Once all development pathways in the digital space have been exhausted, construction of physical prototypes will commence. This phase will uncover many challenges not identified through the initial CAD modeling process, with iterative design falling back to the digital phases to resolve issues. 
 
 									<br><br><h5>Fabricating housing for sensors :</h5> 
 
@@ -438,27 +439,27 @@
 									<br><br><h3>4. Programming of the Arduino :</h3>
 
 
-									<br>The programmatic logic developed during the digital prototyping phase will be ported for compatibility with the Arduino microcontroller. 
+									The programmatic logic developed during the digital prototyping phase will be ported for compatibility with the Arduino microcontroller. 
 
 									<br><br><h5>Sensor data ingestion:</h5> 
 
-									<br>This phase will introduce challenges that are not present in the ideal conditions used for digital prototyping. Sensor calibration, environmental factors, digital noise, and other unexpected influences will need to be identified and managed. 
+									This phase will introduce challenges that are not present in the ideal conditions used for digital prototyping. Sensor calibration, environmental factors, digital noise, and other unexpected influences will need to be identified and managed. 
 
 									<br><br><h5>GUI (Graphical User Interface) :</h5> 
 
-									<br>Modification of the UI to work within the constraints of the real-world device 
+									Modification of the UI to work within the constraints of the real-world device 
 
 									<br>Iterative improvement will be applied based on testing 
 
 									<br><br><h5>IoT pipeline:</h5> 
 
-									<br>Data output formats and interfaces will be selected based on findings of initial testing.  
+									Data output formats and interfaces will be selected based on findings of initial testing.  
 
  
 
 									<br><br><h3>5. Publish IoT web interface :</h3>
 
-									<br>Web page 
+									Web page 
 
 									<br>Data repository 
 
@@ -609,8 +610,8 @@
 									</tr>
 									<tr>
 										<td>14</td>
-										<td><a href="https://oshpark.com/"target="_blank">Custom PBC pipe</a></td>
-										<td>Provides structure for the device</td>
+										<td><a href="https://oshpark.com/"target="_blank">Custom PCB</a></td>
+										<td>Printed circuit board</td>
 										<td>$5</td>
 										<td>1</td>
 									</tr>
@@ -674,9 +675,9 @@
 									<br>Thomas Jeremiah<br><br>
 
 									The extension of the website created during A2 including HTML (Hypertext Markup Language) file duplication and modification, and webpage navigation was owned by Jack Bell. During the development of the JavaScript interactive model, Josh manipulated the repository files for testing. Embedding of the JavaScript and CAD models was completed by Tom. 
-
+									<br><br>
 								<h3><a id="Scope and Limits">Scope and Limits</a></h3>
-
+									
 								<p>Because of the significant limitations on time, skills, funding, and geographical proximity imposed on this project, careful consideration of the deliverables was undertaken early on. It was agreed that production of a physical prototype would not be possible under the circumstances, and efforts should be focused on developing and improving the digital prototype and CAD modeling phases, effective completion of which will display the intended functionality in a manner which conveys the design ethos without requiring in-depth technical understanding.</p>  
 
 								<p>The primary area of focus will be the digital protype, as this will produce the greatest returns on effort. Initially, a broad outline will be produced that demonstrates the concept at a crude level. Each component can then be iteratively improved, adding to the final product. </p>
@@ -686,7 +687,7 @@
 								<p>Finally, the accompanying literature should explain and justify the process and challenges faced through the design process to date. </p>
 
 								<h3><a id="Tools and Technologies">Tools and Technologies</a></h3>
-								<p>P5.js (P5.js, 2022)</p>
+								<h4>P5.js (P5.js, 2022)</h4>
 
 								<p>The digital prototype is an interactive visual embedded in this HTML web page, created with the p5.js library, a free and open-source tool for creating interactive visual elements.</p>
 									
@@ -694,7 +695,7 @@
 									
 									 
 									
-									<p>Fusion 360 (Autodesk, 2022) </p>
+									<h4>Fusion 360 (Autodesk, 2022)</h4>
 									
 									<p>All CAD development was undertaken in Fusion 360, accessed via educational licenses. This software provides a comprehensive suite of tools, including CAD modeling of engineering and electronics components and collaboration tools which were used by team members to access the model.</p>
 									
@@ -702,30 +703,24 @@
 									
 									 
 									
-									<p>GitHub (GitHub, 2022)</p> 
+									<h4>GitHub (GitHub, 2022)</h4>
 									
-									<p>>Along with the digital prototype, all digital artefacts of the project were hosted in a GitHub repository. This provides a collaboration environment, allowing the entire team to contribute. The webpage design is a modified version of the HTML 5Up template ‘Future Imperfect’ (Future Imperfect by HTML5 UP, 2022)Visual Studio Code (Visual Studio Code, 2022)</p>
+									<p>Along with the digital prototype, all digital artefacts of the project were hosted in a GitHub repository. This provides a collaboration environment, allowing the entire team to contribute. The webpage design is a modified version of the HTML 5Up template ‘Future Imperfect’ (Future Imperfect by HTML5 UP, 2022)Visual Studio Code (Visual Studio Code, 2022)</p>
 									
 									<p>The html page code modification was completed using this platform. It provides a text based code editor with multiple language support, as well as a range of tool and plug-ins to streamline the development process.</p> 
 									
 									 
 									
-									<p>Arduino IDE (Arduino IDE, 2022)</p> 
+									<h4>Arduino IDE (Arduino IDE, 2022)</h4> 
 									
 									<p>Not used to date in this project, the Arduino IDE is an open source and freely available programing environment for the development of software, known as sketches, for the Arduino family of development boards. The Arduino uses a modified version of C++, and the IDE provides all the necessary tools to customize an Arduino, including: </p>
 
-									<pre>
-		- Text editor with interactive coding tools 
-
-		- Library management functions 
-
-									
-
-		- Arduino board USB interface management 
-
-		- Terminal output interface 
-								</pre>
- 
+		<ul>
+			<li>Text editor with interactive coding tools </li>						
+			<li>Library management functions  </li>	
+			<li>Arduino board USB interface management  </li>	
+			<li>Terminal output interface  </li>	
+		</ul>
 								<p>Adobe Premier Pro (Adobe Premier Pro, 2022)</p>
 
 								<p>Accessed through an education discounted subscription, this software will be used for all postproduction video editing, primarily the product presentation component. This professional grade software provides a suite of tools to edit and produce Audio/ Visual content.</p>
@@ -734,22 +729,76 @@
 								<h3><a id="Testing">Testing</a></h3>
 								<p>Two phases of testing have been identified,</p>
 
-								<p>Internal function testing</p>
+								<h4>Internal function testing</h4>
 									
 								<p>During each phase of development, the functionality will be tested by members of the team focused on other areas. The intention is to produce constructive feedback from sources less familiar with the specific detail, while still conversant with the broader objectives.</p> 
 									
 								<br>
 									
-								<p>End user testing 
+								<h4>End user testing</h4>
 									
 								<p>On completion of any phase which produces a tangible output, testing using resources outside the group will be undertaken. Initially, testers will be sourced from acquaintances of the development team who have an interest in either the concept or intended functionality, e.g., family members who draw their water supply from an unmonitored source. For further testing, external groups which have an interest in the project goals will be approached. These may include rural community groups, disaster aid organizations and local councils where mains water supply does not cover a substantial proportion of the community.</p>
 
 								<h3><a id="Timeframe">Timeframe</a></h3>
-								<p>Timeframe:</p>
 
 								<p>With additional time and resources to further develop the project, the next 2 and a half months would be expected to produce two prototypes. While these would not be expected to approach a commercially viable product, many of the fundamental design decisions will have solidified, and iterative improvements applied. </p>
 								
-								<a class="image featured"><img src="images/table1.JPG" alt="" /></a>
+								<table>
+									<tr>
+										<th>Week </th>
+										<th>Development milestones</th>
+									</tr>
+									<tr>
+										<td>6 </td>
+										<td>Finalize digital prototype and user test</td>
+										
+									</tr>
+									<tr>
+										<td>7</td>
+										<td>Begin porting software from JavaScript to C++ (Arduino). Build first physical prototype</td>
+										
+									</tr>
+									<tr>
+										<td>8</td>
+										<td>Field test initial physical prototype. Refine CAD modeling</td>
+										
+									</tr>
+									<tr>
+										<td>9</td>
+										<td>Continue refinements to model, circuitry and software</td>
+										
+									</tr>
+									<tr>
+										<td>10</td>
+										<td>Build second prototype. Print PCB with improvements from initial prototype</td>
+										
+									</tr>
+									<tr>
+										<td>11</td>
+										<td>Field test second prototype. Iterative design progress from outcomes</td>
+										
+									</tr>
+									<tr>
+										<td>12</td>
+										<td>Finalize design</td>
+										
+									</tr>
+									<tr>
+										<td>13</td>
+										<td>Build second prototype</td>
+										
+									</tr>
+									<tr>
+										<td>14</td>
+										<td>Field test. Iterate design with improvements identified in testing</td>
+										
+									</tr>
+									<tr>
+										<td>15</td>
+										<td>Ongoing iterative developments</td>
+										
+									</tr>
+								</table>
 								
 								<h3><a id="Risks">Risks</a></h3>
 								<p>The primary risk identified with this project is the limited number of water quality parameters which are being sampled. These parameters were selected based on both accessibility of sensors, and their impact on water quality, however they do not cover pathogens which are the primary source of water borne illness. It was determined during the planning stage to be impractical to effectively sample bacteria, viruses, and harmful algae in an online monitoring device.</P>  
@@ -771,43 +820,10 @@
 									
 								<p>Team Charlie also uses a signal group chat for fast effective and secure communication, with each team member providing updates on their availability and progress. The project management members also frequently reached out to request additional information and provide guidance.</p>
 									 
-								<p><h4>Team Profile</h4></p>
-									
-								<p><h4>Personal info</h4></p> 
-									
-								<p><h4>Group processes-</h4></p> 
-									
-								<p>In assessment 2, our group the quality of our teamwork was mixed. We handled quality control, the completion of our own tasks for the assessment, and our last-minute rush to double and triple-check our work exceptionally. We also worked well at communicating exactly what was going on at any time with messaging apps like Signal and regular meetings on Microsoft teams that were attended by everybody. A large portion of our struggles came down to team members struggling with meeting deadlines in advance to make more time to fix up other aspects of the assessment leading to a much more packed last-minute rush to finish off the last few details. A large portion of the group members also struggled with the written work portion of the assessment and needed more help with getting their reports in line.</p>  
-									
-								<p>For assessment 3 our group has decided to handle the dividing of tasks to cater to group members' strengths. The group decided to split the assessment tasks into 2 and created 3 smaller groups to handle tasks within the assessment that are better handled by those group members. The first of these smaller groups handled the websites HTML, javascript, and CSS side of the assessment, the second handled the report side of the assessment and the third handled the tacking of assessment 5 with the presentation and storyboard. As these tasks were completed group members were then moved over to help with the other tasks to be completed in the assessment. </p>
-
-								<h3>Images placeholder</h3>
-								<div>
-									<a class="image right"><img src="images/project_plan_images/Electronics enclosure v5.png" alt=""/></a>
-									<p>
-										This is text beside the image -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-									</p>
-								</div>
-
-								<div>
-									<a class="image left"><img src="images/project_plan_images/Sensor interface board v3.png" alt="" height="300" /></a>
-									<a class="image left"><img src="images/project_plan_images/Sensor interface board (underneath) v3.png" alt="" height="300"></a>
-									<p>
-										This is text beside the image ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-									</p>
-								</div>
-								<div>
-									
-									<p>
-										
-									</p>
-								</div>
 								
-								<p></p>
-								<h3><a id="References">References</a></h3>
-			References 
-
-<br><br>2022. ATmega328P Datasheet. [eBook] Atmel. Available at: <http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf> [Accessed 20 August 2022]. 
+								<h2><a id="References">References</a></h2>
+			
+<br>2022. ATmega328P Datasheet. [eBook] Atmel. Available at: <http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf> [Accessed 20 August 2022]. 
 
 <br><br>2022. P5.js. Processing foundation. 
 
